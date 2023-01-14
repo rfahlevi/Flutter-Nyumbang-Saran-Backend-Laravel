@@ -10,4 +10,4 @@ Fitur yang tersedia :
 - CRUD SARAN
 
 Fitur yang belum tersedia :
-- CRUD SARAN
+- CRUD PENILAIAN
